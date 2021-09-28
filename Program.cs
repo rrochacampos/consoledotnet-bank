@@ -55,7 +55,7 @@ namespace consoledotnet_bank
             {
                 numeroConta = int.Parse(Console.ReadLine());
 
-                f(numeroConta < 0 || numeroConta >= listContas.Count)
+                if(numeroConta < 0 || numeroConta >= listContas.Count)
                 {
                     Console.Write("Número de conta inválido. Digite novamente: ");
                 } 

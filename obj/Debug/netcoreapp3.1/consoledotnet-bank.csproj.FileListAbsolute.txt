@@ -1,0 +1,13 @@
+C:\workspace\Projetos DIO\consoledotnet-bank\bin\Debug\netcoreapp3.1\consoledotnet-bank.exe
+C:\workspace\Projetos DIO\consoledotnet-bank\bin\Debug\netcoreapp3.1\consoledotnet-bank.deps.json
+C:\workspace\Projetos DIO\consoledotnet-bank\bin\Debug\netcoreapp3.1\consoledotnet-bank.runtimeconfig.json
+C:\workspace\Projetos DIO\consoledotnet-bank\bin\Debug\netcoreapp3.1\consoledotnet-bank.runtimeconfig.dev.json
+C:\workspace\Projetos DIO\consoledotnet-bank\bin\Debug\netcoreapp3.1\consoledotnet-bank.dll
+C:\workspace\Projetos DIO\consoledotnet-bank\bin\Debug\netcoreapp3.1\consoledotnet-bank.pdb
+C:\workspace\Projetos DIO\consoledotnet-bank\obj\Debug\netcoreapp3.1\consoledotnet-bank.csprojAssemblyReference.cache
+C:\workspace\Projetos DIO\consoledotnet-bank\obj\Debug\netcoreapp3.1\consoledotnet-bank.AssemblyInfoInputs.cache
+C:\workspace\Projetos DIO\consoledotnet-bank\obj\Debug\netcoreapp3.1\consoledotnet-bank.AssemblyInfo.cs
+C:\workspace\Projetos DIO\consoledotnet-bank\obj\Debug\netcoreapp3.1\consoledotnet-bank.csproj.CoreCompileInputs.cache
+C:\workspace\Projetos DIO\consoledotnet-bank\obj\Debug\netcoreapp3.1\consoledotnet-bank.dll
+C:\workspace\Projetos DIO\consoledotnet-bank\obj\Debug\netcoreapp3.1\consoledotnet-bank.pdb
+C:\workspace\Projetos DIO\consoledotnet-bank\obj\Debug\netcoreapp3.1\consoledotnet-bank.genruntimeconfig.cache
